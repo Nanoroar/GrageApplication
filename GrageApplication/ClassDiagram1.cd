@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GrageApplication.Garage&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACCAAAAgBJAAAAAAIAAAAAAAAAEAhAAAAAAAAA=</HashCode>
+      <FileName>Garage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GrageApplication.Vehicle" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="8.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCKAAAAEEAQAAAAAAAAAAAAHAAQAgAAAAAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrageApplication.MC">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrageApplication.Car">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrageApplication.Bus" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrageApplication.Moped" Collapsed="true">
+    <Position X="13.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moped.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrageApplication.Truck" Collapsed="true">
+    <Position X="15.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xmltest.CreateXMLDatabase" Collapsed="true">
+    <Position X="0.5" Y="5" Width="7" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAWAAAAQAAAAAAQAAAAgIAAAAQAQAABAIAAA=</HashCode>
+      <FileName>CreateXMLDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GrageApplication.VehicleTypes" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAAAAEQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

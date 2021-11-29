@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Bus.cs" />
     <Compile Include="Car.cs" />
+    <Compile Include="CreateXMLDatabase.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="Garage.cs" />
     <Compile Include="MC.cs" />
@@ -56,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
